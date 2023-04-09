@@ -1,2 +1,3 @@
 *.log
-/unimp/
+unimp/
+static/unimp
